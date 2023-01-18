@@ -30,8 +30,6 @@ Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório
 
 Além disso, é interessante que você tenha um bom editor para trabalhar com os códigos. Recomendo o uso do [Visual Studio Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/) ou [WebCode](https://play.google.com/store/apps/details?id=com.qamar.ide.web&hl=pt_BR&gl=US), sendo este último para dispositivos Android.
 
-Para conferir as ferramentas que foram utilizadas, siga para o diretório de cada mundo.
-
 ## 🛠 Tecnologias utilizadas
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [HTML5](https://html.spec.whatwg.org/multipage/)
