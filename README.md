@@ -28,15 +28,19 @@ Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://gi
 
 Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório` → `URL` e incluir o caminho `guedesert/habits`.
 
-Além disso, é interessante que você tenha um bom editor para trabalhar com os códigos. Recomendo o uso do [Visual Studio Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/) ou [WebCode](https://play.google.com/store/apps/details?id=com.qamar.ide.web&hl=pt_BR&gl=US), sendo este último para dispositivos Android.
+Além disso, é interessante que você tenha um bom editor para trabalhar com os códigos, dos quais eu recomendo o uso do [Visual Studio Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/) ou [WebCode](https://play.google.com/store/apps/details?id=com.qamar.ide.web&hl=pt_BR&gl=US), sendo este último para dispositivos Android. E também um navegador de internet, que eu indico que seja [Microsoft Edge](https://www.microsoft.com/pt-br/edge/download?form=MA13FJ) ou [Google Chrome](https://www.google.com/intl/pt-BR/chrome/).
 
 ## 🛠 Tecnologias utilizadas
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- [HTML5](https://html.spec.whatwg.org/multipage/)
-- [CSS3](https://www.w3.org/Style/CSS/)
-- JavaScript
-- [GitHub](https://github.com/)
-- [Figma](https://www.figma.com/)
+- Linguagens:
+  - [HTML5](https://html.spec.whatwg.org/multipage/)
+  - [CSS3](https://www.w3.org/Style/CSS/)
+  - JavaScript
+- IDEs:
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [WebCode](https://play.google.com/store/apps/details?id=com.qamar.ide.web&hl=pt_BR&gl=US)
+- Prototipagem e geração de imagens:
+  - [Figma](https://www.figma.com/)
 
 ## 📃 Licença
 Este repositório está licensiado sob a [Licença MIT](./LICENSE).
