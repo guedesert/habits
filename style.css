@@ -1,13 +1,90 @@
 * {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
   background-color: #09090A;
-  color: white;
-
-  display: grid;
-  place-items: center;
-
+  color: #FFFFFF;
   height: 100vh;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 48px;
+}
+
+button {
+  padding: 16px 24px;
+  border-radius: 8px;
+  border: 1px solid #3B82F6;
+  background-color: transparent;
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 125%;
+}
+
+#form-habitos {
+  display: flex;
+  padding: 0 48px;
+}
+
+.habitos {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.habito {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dias {
+  display: flex;
+  gap: 48px;
+  margin-left: 32px;
+}
+
+.dia {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.dia div {
+  margin-bottom: 8px;
+  font-family: 'Roboto Mono';
+  font-size: 20px;
+  line-height: 125%;
+  color: #A1A1AA;
+  text-align: center;
+}
+
+input {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 64px;
+  height: 64px;
+  border: 2px solid #27272A;
+  border-radius: 8px;
+  background: #18181B;
+}
+
+input:checked {
+  background: #3B82F6;
+  border: 2px solid #60A5FA;
 }
