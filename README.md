@@ -41,6 +41,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📃 Licença
 Este repositório está licensiado sob a [Licença MIT](./LICENSE).
 
+<hr>
 <div align="center">
   <a href="./LICENSE"><img src="https://img.shields.io/github/license/guedesert/habits?style=for-the-badge&color=blue"/></a>
 </div>
