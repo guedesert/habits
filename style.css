@@ -11,10 +11,13 @@ body {
 }
 
 header {
+  position: fixed;
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 48px;
+  background-color: #09090A;
 }
 
 button {
@@ -32,19 +35,20 @@ button {
   line-height: 125%;
 }
 
-#form-habitos {
+#form-habits {
   display: flex;
-  padding: 0 48px;
+  padding: 180px 48px 48px;
+  width: fit-content;
 }
 
-.habitos {
+.habits {
   margin-top: 60px;
   display: flex;
   flex-direction: column;
   gap: 24px;
 }
 
-.habito {
+.habit {
   width: 64px;
   height: 64px;
   font-size: 32px;
@@ -53,19 +57,19 @@ button {
   justify-content: center;
 }
 
-.dias {
+.days {
   display: flex;
   gap: 48px;
   margin-left: 32px;
 }
 
-.dia {
+.day {
   display: flex;
   flex-direction: column;
   gap: 24px;
 }
 
-.dia div {
+.day div {
   margin-bottom: 8px;
   font-family: 'Roboto Mono';
   font-size: 20px;
@@ -87,4 +91,9 @@ input {
 input:checked {
   background: #3B82F6;
   border: 2px solid #60A5FA;
+}
+@media (max-width: 570px) {
+  button div {
+    display: none;
+  }
 }

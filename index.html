@@ -17,33 +17,26 @@
       <img src="./assets/logo.svg" alt="Logomarca do aplicativo Habits" />
       <button>
         <img src="./assets/mais.svg" alt="Ícone sinal de mais roxo" />
-        Registrar o meu dia
+        <div>
+          Registrar o meu dia
+        </div>
       </button>
     </header>
     <!--Formulário para preenchimento dos hábitos-->
-    <form id="form-habitos">
+    <form id="form-habits">
       <!--Caixa com a listagem dos hábitos representados por emojis-->
-      <div class="habitos">
-        <div class="habito">🏃🏽‍♂️</div>
-        <div class="habito">💧</div>
-        <div class="habito">🍎</div>
+      <div class="habits">
+        <div class="habit" data-name="exercises">🏃🏽‍♂️</div>
+        <div class="habit" data-name="water">💧</div>
+        <div class="habit" data-name="healthy-food">🍎</div>
+        <div class="habit" data-name="reading">📚</div>
+        <div class="habit" data-name="journal">📓</div>
+        <div class="habit" data-name="medicines">💊</div>
       </div>
       <!--Caixa com os dias onde serão registrados os hábitos contidos na caixa anterior-->
-      <div class="dias">
-        <!--Caixa com apenas 1 dia-->
-        <div class="dia">
-          <div>16/01</div>
-          <input type="checkbox" name="exercicio" />
-          <input type="checkbox" name="agua" />
-          <input type="checkbox" name="alimentacao" />
-        </div>
-        <div class="dia">
-          <div>17/01</div>
-          <input type="checkbox" name="exercicio" />
-          <input type="checkbox" name="agua" />
-          <input type="checkbox" name="alimentacao" />
-        </div>
-      </div>
+      <div class="days"></div>
     </form>
+    <script src="./NLWSetup.js" ></script>
+    <script src="./script.js"></script>
   </body>
 </html>
