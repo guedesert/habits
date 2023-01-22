@@ -9,8 +9,11 @@ Projeto de assistente de controle de hábitos diários criado na **Trilha Explor
 <div align="center">
 
 ![Quantidade de arquivos do repositório](https://img.shields.io/github/directory-file-count/guedesert/habits?style=for-the-badge&color=blue&label=arquivos) ![Tamanho do repositório](https://img.shields.io/github/repo-size/guedesert/habits?style=for-the-badge&color=blue&label=tamanho)
+
 ---
-[Como baixar e executar](#📥-como-baixar-e-executar)• [Tecnologias utilizadas](#🛠-tecnologias-utilizadas) • [Licença](#📃-licença)
+
+[Como baixar e executar](#-como-baixar-e-executar)• [Tecnologias utilizadas](#-tecnologias-utilizadas) • [Licença](#-licença)
+
 ---
 ![Capa do projeto Habits](.github/capa.svg)
 
@@ -39,7 +42,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📃 Licença
 Este repositório está licensiado sob a [Licença MIT](./LICENSE).
+
 ---
+
 <div align="center">
 
 [![Licença](https://img.shields.io/github/license/guedesert/habits?style=for-the-badge&color=blue)](./LICENSE)
