@@ -1,6 +1,6 @@
 <h1 align="center">
 
-![Logomarca do aplicativo Habits](./assets/logo.svg)
+![Logomarca da NLW Setup](.github/NWL%20Setup%20-%20Vertical.png)
 
 </h1>
 
@@ -8,7 +8,7 @@ Projeto de assistente de controle de hábitos diários criado na **Trilha Explor
 
 <div align="center">
 
-![Quantidade de arquivos do repositório](https://img.shields.io/github/directory-file-count/guedesert/habits?style=for-the-badge&color=blue&label=arquivos) ![Tamanho do repositório](https://img.shields.io/github/repo-size/guedesert/habits?style=for-the-badge&color=blue&label=tamanho)
+![Tamanho do repositório](https://img.shields.io/github/repo-size/guedesert/habits?style=for-the-badge&color=blue&label=tamanho)
 
 ---
 
@@ -43,10 +43,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📃 Licença
 Este repositório está licensiado sob a [Licença MIT](./LICENSE).
 
----
-
 <div align="center">
 
 [![Licença](https://img.shields.io/github/license/guedesert/habits?style=for-the-badge&color=blue)](./LICENSE)
+
+---
+
+Criado pela [Rocketseat 🚀](https://www.rocketseat.com.br/) e adaptado por [Emanuel Guedes](https://github.com/guedesert).
 
 </div>
