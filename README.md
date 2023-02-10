@@ -26,7 +26,7 @@ Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório
 
 Além disso, é interessante que você tenha um bom editor para trabalhar com os códigos, dos quais eu recomendo o uso do [Visual Studio Code](https://code.visualstudio.com/) ou [WebCode](https://play.google.com/store/apps/details?id=com.qamar.ide.web&hl=pt_BR&gl=US), sendo este último para dispositivos Android. E também um navegador de internet, que eu indico que seja [Microsoft Edge](https://www.microsoft.com/pt-br/edge/download?form=MA13FJ) ou [Google Chrome](https://www.google.com/intl/pt-BR/chrome/).
 
-Para visualizar e visitar o projeto on-line, basta acessá-lo [clicando aqui](https://guedesert.github.io/habits/).
+Para visualizar e visitar o projeto on-line, basta acessá-lo [**clicando aqui**](https://guedesert.github.io/nlw-setup/).
 
 ## 🛠 Tecnologias utilizadas
 Esse projeto foi desenvolvido com as seguintes tecnologias:
