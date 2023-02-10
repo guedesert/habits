@@ -1,6 +1,6 @@
 <h1 align="center">
 
-![Logomarca da NLW Setup](.github/NWL%20Setup%20-%20Vertical.png)
+![Logomarca da NLW Setup](.github/logo.png)
 
 </h1>
 
