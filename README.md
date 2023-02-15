@@ -8,11 +8,11 @@ Projeto de assistente de controle de hábitos diários criado na **Trilha Explor
 
 <div align="center">
 
-![Tamanho do repositório](https://img.shields.io/github/repo-size/guedesert/habits?style=for-the-badge&color=blue&label=tamanho)
+![Tamanho do repositório](https://img.shields.io/github/repo-size/guedesert/nlw-setup?style=for-the-badge&color=blue&label=tamanho)
 
 ---
 
-[Como baixar e executar](#-como-baixar-e-executar)• [Tecnologias utilizadas](#-tecnologias-utilizadas) • [Licença](#-licença)
+[Como baixar e executar](#-como-baixar-e-executar) • [Tecnologias utilizadas](#-tecnologias-utilizadas) • [Licença](#-licença)
 
 ---
 ![Capa do projeto Habits](.github/capa.svg)
@@ -22,7 +22,7 @@ Projeto de assistente de controle de hábitos diários criado na **Trilha Explor
 ## 📥 Como baixar e executar
 Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://github.com/) instalado em seu dispositivo.
 
-Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório` → `URL` e incluir o caminho `guedesert/habits`.
+Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório` → `URL` e incluir o caminho `guedesert/nlw-setup`.
 
 Além disso, é interessante que você tenha um bom editor para trabalhar com os códigos, dos quais eu recomendo o uso do [Visual Studio Code](https://code.visualstudio.com/) ou [WebCode](https://play.google.com/store/apps/details?id=com.qamar.ide.web&hl=pt_BR&gl=US), sendo este último para dispositivos Android. E também um navegador de internet, que eu indico que seja [Microsoft Edge](https://www.microsoft.com/pt-br/edge/download?form=MA13FJ) ou [Google Chrome](https://www.google.com/intl/pt-BR/chrome/).
 
